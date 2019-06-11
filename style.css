@@ -5,12 +5,12 @@ font-family: Palatino;}
 a {
   font-weight: bold;
   color: #CD504A;
-  font-decoration: none;}
+  text-decoration: none;}
 a:hover {
   color: #5A4E4E;}
 h1 {
   font-family: Open Sans Condensed;
-  color: #42777F;
+  color: #302D2D;
   font-weight: bold;
   font-size: 25px;
 }
