@@ -32,7 +32,6 @@ h2 {
   margin: 5px;}
 #about {
   padding-left: 2vw;
-  margin-left: 2vw;
   border-left: 1vw solid #CD504A;
   text-align: justify;}
 h3 {
@@ -41,4 +40,5 @@ h3 {
   color: #5A4E4E;
   font-weight: normal;
   font-style: italic;
-  letter-spacing: 1px;}
+  letter-spacing: 1px;
+  margin-right: 10vw;}
