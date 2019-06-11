@@ -1,7 +1,7 @@
 body {
 background-color: #D6E5CB;
 color: #302D2D;
-font-size: 14px;
+font-size: 3vw;
 font-family: Palatino;}
 a {
   font-weight: bold;
@@ -13,13 +13,13 @@ h1 {
   font-family: Open Sans Condensed;
   color: #CD504A;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 10vw;
 }
 h2 {
   font-family: Open Sans Condensed;
   color: #42777F;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 5vw;
 }
 #container {
   padding: 10px;
