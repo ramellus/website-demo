@@ -1,2 +1,16 @@
 body {
-background-color: #D6E5CB;}
+background-color: #D6E5CB;
+font-size: 11px;
+font-family: Palatino;}
+h1 {
+  font-family: Open Sans Condensed;
+  color: #42777F;
+  font-weight: bold;
+  font-size: 25px;
+}
+h2 {
+  font-family: Open Sans Condensed;
+  color: #42777F;
+  font-weight: bold;
+  font-size: 15px;
+}
