@@ -1,8 +1,8 @@
 body {
 background-color: #D6E5CB;
 color: #302D2D;
-font-size: 0.5vw;
-font-family: Oswald;}
+font-size: 1vw;
+font-family: Roboto Condensed;}
 a {
   font-weight: bold;
   color: #CD504A;
@@ -13,13 +13,13 @@ h1 {
   font-family: Open Sans Condensed;
   color: #CD504A;
   font-weight: bold;
-  font-size: 2vw;
+  font-size: 3vw;
 }
 h2 {
   font-family: Open Sans Condensed;
   color: #42777F;
   font-weight: bold;
-  font-size: 1vw;
+  font-size: 2vw;
 }
 #container {
   padding: 10px;
