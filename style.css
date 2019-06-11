@@ -2,7 +2,7 @@ body {
 background-color: #D6E5CB;
 color: #302D2D;
 font-size: 3vmin;
-font-family: Roboto Condensed;}
+font-family: Roboto Slab;}
 a {
   font-weight: bold;
   color: #CD504A;
@@ -10,7 +10,7 @@ a {
 a:hover {
   color: #5A4E4E;}
 h1 {
-  font-family: Open Sans Condensed;
+  font-family: Roboto Condensed;
   color: #CD504A;
   font-weight: bold;
   font-size: 6vmin;
@@ -19,7 +19,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-family: Open Sans Condensed;
+  font-family: Roboto Condensed;
   color: #42777F;
   font-weight: bold;
   font-size: 4vmin;
@@ -35,3 +35,10 @@ h2 {
   margin-left: 2vw;
   border-left: 1vw solid #CD504A;
   text-align: justify;}
+h3 {
+  text-align: right;
+  font-size: 3vmin;
+  color: #5A4E4E;
+  font-weight: normal;
+  font-style: italic;
+  letter-spacing: 1px;}
