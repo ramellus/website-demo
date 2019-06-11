@@ -44,6 +44,10 @@ h3 {
   margin-right: 10vw;}
 #social {
   text-align: center;}
+#social img {
+  opacity: 0.5;}
+#social img:hover {
+  opacity: 0.7;}
 #credits {
   text-align: left;
   font-size: 1vmin;
