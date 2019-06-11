@@ -42,3 +42,9 @@ h3 {
   font-style: italic;
   letter-spacing: 1px;
   margin-right: 10vw;}
+#social {
+  text-align: center;}
+#credits {
+  text-align: left;
+  font-size: 1vmin;
+  color: #5A4E4E}
