@@ -28,8 +28,8 @@ h2 {
   text-align: center;
 }
 #container {
-  padding: 10px;
-  margin: 5px;}
+  margin: 1vmin;
+  width: 8vmin;}
 #about {
   padding-left: 2vw;
   border-left: 1vw solid #CD504A;
