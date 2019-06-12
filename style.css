@@ -27,9 +27,12 @@ h2 {
   margin-bottom: 2px;
   text-align: center;
 }
+#bcontainer {
+  text-align: center;}
 #container {
   margin: 10vmin;
-  width: 80vmin;}
+  width: 80vmin;
+  display: inline-block;}
 #about {
   padding-left: 2vw;
   border-left: 1vw solid #CD504A;
